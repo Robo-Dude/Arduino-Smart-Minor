@@ -1,0 +1,2 @@
+# Smart-Minor
+Smart Mirror Home Made Features Display Date and Time , Temperature and Display Message Send By smartphone. Smart mirrors are straight from science fiction. They’re part of an optimistic vision of the future that imagines a world where screens and data are everywhere, ready to feed you whatever information you need at a moment’s notice. HARDWARE REQUIRED 3 Arduino Nano 3 Oled Display RTC Module Temperature Sensor 12 Volt Battery Smartphone Bluetooth Module
